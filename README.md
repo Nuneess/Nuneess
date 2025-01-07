@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with Python
+- 🌱 I’m currently learning C#,JavaScript,HTML and CSS.
+- 🤔 I’m looking for help with JavaScript.
 
 ### Languages and Tools
 

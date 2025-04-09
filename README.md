@@ -6,5 +6,5 @@
 ### Languages and Tools
 
 <a href="https://skillicons.dev">
-   <img src=https://skillicons.dev/icons?i=cs,js,html,css,python,mysql&perline=6>
+   <img src=https://skillicons.dev/icons?i=cs,js,html,css,python,mysql,bootstrap&perline=6>
 </a>

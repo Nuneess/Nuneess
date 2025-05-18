@@ -1,13 +1,29 @@
-# 💫 About Me:
- 💻I'm currently learning HTML,CSS and Bootstrap.
+<p align="center" >
+<image  src=""/>
+</p>
+<hr>
+<h3 align="center"></h3>
+  
+- 🌱 I’m currently learning **Javascipt and React**
+
+- 📫 How to reach me **matheushenriquenunes2907@gmail.com**
+
+<p align="left">
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheus.ohenrique) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheushenriquenunes2907@gmail.com) 
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
----
-[![](https://visitcount.itsvg.in/api?id=Nuneess&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,python&perline=4">
+  </a>
+</p>
+<h3 align="center">Tools and Frameworks</h3>
+<p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=git,npm,react,mysql,bootstrap,vscode,visualstudio&perline=4">
+</p>
+
+

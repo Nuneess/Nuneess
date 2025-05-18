@@ -1,8 +1,3 @@
-<p align="center" >
-<image  src=""/>
-</p>
-<hr>
-<h3 align="center"></h3>
   
 - 🌱 I’m currently learning **Javascipt and React**
 

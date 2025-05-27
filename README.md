@@ -1,5 +1,5 @@
   
-- 🌱 I’m currently learning **Javascipt and React**
+- 🌱 I’m currently learning **PHP**,**Javascipt and React**
 
 - 📫 How to reach me **matheushenriquenunes2907@gmail.com**
 

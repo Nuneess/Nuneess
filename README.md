@@ -12,7 +12,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,python&perline=4">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,php&perline=4">
   </a>
 </p>
 <h3 align="center">Tools and Frameworks</h3>

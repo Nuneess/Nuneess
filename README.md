@@ -20,7 +20,7 @@
 <h3 align="center">Tools and Frameworks</h3>
 <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,npm,react,mysql,bootstrap,vscode,visualstudio,jsx&perline=4">
+     <img src="https://skillicons.dev/icons?i=git,npm,react,mysql,bootstrap,vscode,visualstudio,js,cx&perline=4">
 </p>
 
 

@@ -1,5 +1,5 @@
   
-- 🌱 I’m currently learning **PHP**,**Javascipt and React**
+- 🌱 I’m currently learning **C**,**Javascipt and React**
 
 - 📫 How to reach me **matheushenriquenunes2907@gmail.com**
 
@@ -20,7 +20,7 @@
 <h3 align="center">Tools and Frameworks</h3>
 <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,npm,react,mysql,bootstrap,vscode,visualstudio,js,debian,dotnet,linux,pycharm&perline=4">
+     <img src="https://skillicons.dev/icons?i=git,npm,react,mysql,bootstrap,vscode,visualstudio,js,debian,dotnet,linux,pycharm,tailwind,fastapi,mint&perline=4">
 </p>
 
 

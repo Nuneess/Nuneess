@@ -14,13 +14,13 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,php&perline=4">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,php,c,&perline=4">
   </a>
 </p>
 <h3 align="center">Tools and Frameworks</h3>
 <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,npm,react,mysql,bootstrap,vscode,visualstudio,js,cx&perline=4">
+     <img src="https://skillicons.dev/icons?i=git,npm,react,mysql,bootstrap,vscode,visualstudio,js,x,debian,dotnet,linux,pycharm,&perline=4">
 </p>
 
 
